@@ -1,4 +1,4 @@
-# Canonical CI for Sean’s Rust Windows projects — copy to
+# Canonical CI for Sean's Rust Windows projects — copy to
 # .github/workflows/ci.yml. NOTE: the GitHub App cannot create/edit files
 # under .github/workflows/ (no Workflows permission), so this file is
 # always added through the GitHub web UI.
